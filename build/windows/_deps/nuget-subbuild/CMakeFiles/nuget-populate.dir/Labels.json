@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/84e7d8b9c3c1dd07d384b9c67e25253f/nuget-populate.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/78ee8791030d59fe8d34d38459dbde79/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-build.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-download.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-install.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-test.rule"
+		},
+		{
+			"file" : "D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/_deps/nuget-subbuild/CMakeFiles/e10dd4fab46266a24342163898da730f/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

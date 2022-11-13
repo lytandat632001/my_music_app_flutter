@@ -1,0 +1,13 @@
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/CMakeFiles/INSTALL.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/CMakeFiles/music_app_flutter.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/plugins/audioplayers_windows/CMakeFiles/audioplayers_windows_plugin.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/plugins/audioplayers_windows/CMakeFiles/INSTALL.dir
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/plugins/audioplayers_windows/CMakeFiles/ALL_BUILD.dir

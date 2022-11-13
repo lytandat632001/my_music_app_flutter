@@ -1,0 +1,17 @@
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/icudtl.dat
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/flutter_windows.dll
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/audioplayers_windows_plugin.dll
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/images/EverythingSucks-Vaultboy.jpg
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/images/stay_justinbieber_image.jpg
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/images/Yummy-Justin%20Bieber.jpg
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/music/EverythingSucks-Vaultboy.mp3
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/music/Stay%20-%20The%20Kid%20LAROI_%20Justin%20Bieber.mp3
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/assets/music/Yummy-Justin%20Bieber.mp3
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/LapTrinhDiDong/MusicApp_Flutter/music_app_flutter/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

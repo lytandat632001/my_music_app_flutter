@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\e10dd4fab46266a24342163898da730f\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\78ee8791030d59fe8d34d38459dbde79\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\84e7d8b9c3c1dd07d384b9c67e25253f\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\LapTrinhDiDong\MusicApp_Flutter\music_app_flutter\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E47C39DF-5ED2-30A1-BCEE-FA1752BA247E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
